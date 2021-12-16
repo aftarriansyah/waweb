@@ -1,0 +1,8 @@
+{
+  "name": "Whatsapp Web NodeJS",
+  "description": "WhatsApp Web using node js",
+  "repository": "https://github.com/aftarriansyah/waweb",
+  "logo": "https://cdn.rawgit.com/aftarriansyah/waweb/main/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
