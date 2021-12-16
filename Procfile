@@ -1,3 +1,3 @@
-npm i whatsapp-web.js
-npm i qrcode-terminal
+web: npm i whatsapp-web.js
+web: npm i qrcode-terminal
 web: npm start
